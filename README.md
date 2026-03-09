@@ -1,12 +1,12 @@
 <img src="/codelion.png" width="200"> <img src="/money.png" width="225"> <img src="/codelion.png" width="200">
 
-## Hi there 👋
+## Hi there 👋🏻
 My name is Andrew Kim, and I'm a junior at UW-Madison studying computer science, with a minor in Entrepreneurship. I'm currently a project manager for Data Science for Sustainable Development (DSSD), leading the Badger Prairie Needs Network team. I'm most interested in backend development, cloud computing, and applied AI. I love the big picture thinking that comes with high level work, but I also enjoy problem solving in any domain.
 
 ## <img src="/chef.png" width="25"> I’m currently working on ...
 ### Project Manager for BPNN team @ DSSD <img src="/flagtruck.png" width="20">
 
-- developing a software to generate balanced routes for flag deliveries. The Badger Prairie Needs Network is the 3rd largest food pantry in Dane county (where Madison is!). To help raise money, they run a flag sales business around each holiday (Memorial Day, Veteran's day, etc.). To aid in this effort, we're smoothing out the process of allocating addresses to delivery drivers!
+- developing a software to generate balanced routes for flag deliveries. The Badger Prairie Needs Network is the 3rd largest food pantry in Dane county (where Madison is!). To help raise money, they run a flag sales business around each holiday (Memorial Day, Veteran's day, etc.). To aid in this effort, we're smoothing out the process of allocating addresses to delivery drivers.
 ### Ode de Parfum <img src="/notes.png" width="20">
 - my main passion project. It's a full stack app that generates custom fragrances based on songs, using audio features and lyrical analysis to create an emotional profile that can be converted to scent notes. I'm working with Hugging Face emotion models and the OpenAI API to make this work. Since the Spotify API audio features were recently deprecated, my biggest hurdle at the moment is finding a comparable alternative.
 
