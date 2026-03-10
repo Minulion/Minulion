@@ -1,4 +1,4 @@
-<img src="/codelion.png" width="200"> <img src="/money.png" width="225"> <img src="/codelion.png" width="200">
+<img src="/codelion.png" width="175"> <img src="/money.png" width="200"> <img src="/codelion.png" width="175">
 
 ## Hi there 👋🏻
 My name is Andrew Kim, and I'm a junior at UW-Madison studying computer science, with a minor in Entrepreneurship. I'm currently a project manager for Data Science for Sustainable Development (DSSD), leading the Badger Prairie Needs Network team. I'm most interested in backend development, cloud computing, and applied AI. I love the big picture thinking that comes with high level work, but I also enjoy problem solving in any domain.
