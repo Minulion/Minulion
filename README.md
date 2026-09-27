@@ -1,4 +1,4 @@
-<img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> <img src="/codelion.png" width="165">
+<img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> <img src="/codelion.png" width="165"> 
 
 ## Hi, I'm Andrew 👋🏻
 I'm a junior at UW-Madison studying computer science, with a minor in Entrepreneurship. I'm currently a project manager for Data Science for Sustainable Development (DSSD), leading the Badger Prairie Needs Network team. I'm most interested in backend development, cloud computing, and applied AI. I love the big picture thinking that comes with high level work, but I also enjoy problem solving in any domain.
