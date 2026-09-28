@@ -34,8 +34,8 @@ I'm a junior at UW-Madison studying computer science, with a minor in Entreprene
 ![](https://img.shields.io/badge/Git-brown.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-skyblue.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
-## <img src="/100.png" width="25"> Fun fact: I've been playing drums for 10 years!
-I play in a band called Unikists. If you're in Madison, come check us out at the end of each semester.
+## ⭐ Fun fact: I've been playing drums for 10 years!
+I play in a band called Unikists. If you're in Madison, come check us out @ Red Zone Madison at the end of each semester.
 
 <!--
 **Minulion/Minulion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
